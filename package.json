@@ -1,0 +1,17 @@
+{
+  "name": "test",
+  "version": "0.0.0",
+  "description": "test",
+  "main": "app.js",
+  "“scripts”": {
+    "test": "echo \" Error:No test specified \" && exit 1",
+    "start": "nodeapp.js"
+  },
+  "“keywords”": [],
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
